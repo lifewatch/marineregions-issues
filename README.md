@@ -22,7 +22,7 @@ Examples:
 
 Good issue 👍 
 
-> _There is a new arbitration of the International Court of Justice (See <url>) which shows the new maritime boundary between <country1> and <country2>_.
+> _There is a new arbitration of the International Court of Justice (See this url) which shows the new maritime boundary between country 1 and country 2_.
 
 Bad issue 👎 
 
