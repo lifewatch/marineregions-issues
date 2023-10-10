@@ -1,18 +1,11 @@
 ---
 name: Marine Regions Issue Report
-about: Create a report to help us improve
+about: Is there a new maritime boundaries treaty? Or did you find a bug? Open an issue and let us know!
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-**Issue type**
-
-<!-- Tick box with an "x" -->
-
-- [ ] Data Product Issue
-- [ ] Gazetteer Issue
 
 **Item**
 
