@@ -1,6 +1,6 @@
 # Marine Regions Public Forum
 
-Welcome to the Marine Regions public forum repository! This space is dedicated to open questions and issue tracking related to the Marine Regions Gazetteer and the Marine Regions Data Products. We encourage you to engage with the community and provide valuable input.
+Welcome to the Marine Regions public forum repository! This space is dedicated to open questions and issue tracking related to the Marine Regions Gazetteer and the Marine Regions Data Products, such as the Maritime Boundaries. We encourage you to engage with the community and provide valuable input.
 
 ## About Marine Regions
 
